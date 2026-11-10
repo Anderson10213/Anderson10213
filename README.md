@@ -1,23 +1,22 @@
 <h1 align="center">Anderson T. M. L.</h1>
 
 <p align="center">
-  <strong>Senior Full Stack &amp; Android Developer</strong> · Brazil · Platinum<br/>
+  <strong>Senior Full Stack &amp; Android Developer</strong> · Brazil<br/>
   <a href="mailto:raymond.r0427@gmail.com">Email</a> ·
-  <a href="https://www.workana.com/freelancer/df0b163e934eb86741879c330928cd44">Workana</a> ·
-  <a href="https://github.com/Anderson10213">GitHub</a>
+  <a href="https://github.com/Anderson10213">GitHub</a> ·
+  <a href="https://www.workana.com/freelancer/df0b163e934eb86741879c330928cd44">Recent client work</a>
 </p>
 
 <p align="center">
-  <img alt="4.93 from 12 reviews" src="https://img.shields.io/badge/4.93-12%20reviews-E0A106?style=flat-square" />
-  <img alt="13 completed" src="https://img.shields.io/badge/13%20done-4%20active-1F6B45?style=flat-square" />
-  <img alt="Brazil rank 13" src="https://img.shields.io/badge/Brazil-%2313-9A3F14?style=flat-square" />
-  <img alt="Worldwide rank 48" src="https://img.shields.io/badge/Worldwide-%2348-171513?style=flat-square" />
-  <img alt="USD 19 per hour" src="https://img.shields.io/badge/USD%2019%2Fh-Workana-171513?style=flat-square" />
+  <img alt="10 plus years on the web" src="https://img.shields.io/badge/Web-10%2B%20years-171513?style=flat-square" />
+  <img alt="React 5 to 10 years" src="https://img.shields.io/badge/React-5--10%20years-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-Kotlin%20%26%20Java-3DDC84?style=flat-square&logo=android&logoColor=111" />
+  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-AWS%20%C2%B7%20Docker-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
-Web, Android, and cloud systems for startups and companies in Brazil. Portuguese and English. Clean architecture, from concept to production.
+More than a decade building interfaces, and many years shipping full products: web platforms, Android apps, and cloud systems for startups, small companies, and larger businesses. The work below comes from that practice. Recent freelance delivery sits alongside the systems built before it. Portuguese and English. Clean architecture, from concept to production.
 
-## Work
+## Selected work
 
 <table>
 <tr>
@@ -69,10 +68,8 @@ Responsive web, JavaScript, HTML, and CSS: 10+ years. React: 5–10 years. Pytho
 
 **96%** Android advanced · **93%** CSS · **83%** Android intermediate · **80%** WordPress · **80%** English
 
-## Clients
+## Selected notes
 
-Five clients hired Anderson more than once.
+> Site rápido, seguro (LGPD) e otimizado para o Google Ads, com o tom certo para um consultório de psicologia. — **L. C. G. D. O.**
 
-> Site rápido, seguro (LGPD) e otimizado para o Google Ads, com o tom certo para um consultório de psicologia. — **L. C. G. D. O.**, 5.0
-
-> Prestativo, inteligente e faz um bom trabalho. — **Amanda I.**, 5.0 · SaaS de obras com IA
+> Prestativo, inteligente e faz um bom trabalho. — **Amanda I.**, SaaS de obras com IA
